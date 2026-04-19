@@ -60,10 +60,21 @@ My journey began with a simple curiosity to understand *why things work*, evolvi
 
 ## 🤝 Multiplayer Mode (Let's Connect)
 
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruubanraj/) <br>
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruubanraja@gmail.com)
 
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/ruubanraj/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+
+  <a href="mailto:ruubanraja@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 
 

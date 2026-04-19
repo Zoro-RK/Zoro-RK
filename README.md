@@ -6,7 +6,6 @@ Welcome to my profile! I am a creator on a quest to explore the space where **AI
 My journey began with a simple curiosity to understand *why things work*, evolving from writing basic logic to training models that recognize complex patterns. Every line of code is a step closer to mastering intelligent systems.
 
 
-
 ## ⚔️ Skill Tree
 
 ### 🧠 Arcane Mind (Artificial Intelligence & ML)
@@ -59,22 +58,20 @@ My journey began with a simple curiosity to understand *why things work*, evolvi
 
 
 
-## 🤝 Join the Party
+## 🤝 Multiplayer Mode
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruubanraj/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruubanraja@gmail.com)
+* **LinkedIn:**[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruubanraj/)<br/>
+* **Email:**[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruubanraja@gmail.com)
 
 
 
-## 📊 Player Stats
-<div align="center">
+## 📊 Player Stats (Let's Connect)
+
 ![](https://github-readme-stats.shion.dev/api?username=Zoro-RK&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Zoro-RK&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zoro-RK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
 
----
 
 <div align="center">
-  <i>The game isn't over. Still building. Still learning. Still exploring. 🎯</i><br>
+  <i>The game isn't over. Still building. Still learning. Still exploring... 🎯</i><br>
 </div>

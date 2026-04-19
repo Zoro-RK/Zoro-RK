@@ -1,7 +1,7 @@
 # 🕹️ [Player]: Ruuban
 ### 🎮 Class: Full-Stack & AI Sorcerer
 
-Welcome to my profile! I am a creator on a quest to explore the space where **AI meets real-world impact**. I forge systems that don't just function—but *think, adapt, and feel intuitive*. 
+Developer Profile Loaded...! I am a creator on a quest to explore the space where **AI meets real-world impact**. I forge systems that don't just function—but *think, adapt, and feel intuitive*. 
 
 My journey began with a simple curiosity to understand *why things work*, evolving from writing basic logic to training models that recognize complex patterns. Every line of code is a step closer to mastering intelligent systems.
 

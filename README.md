@@ -78,13 +78,22 @@ My journey began with a simple curiosity to understand *why things work*, evolvi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zoro-RK&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E7FF&text_color=FFFFFF&icon_color=FFD700" width="80%" />
+<div style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; width: 85%; background-color: #0d1117;">
 
-<br/>
+<h3 style="color:#ff4da6;">⚡ Zoro-RK GitHub Stats</h3>
 
-<img src="https://streak-stats.demolab.com?user=Zoro-RK&theme=radical&hide_border=true&background=0D1117&ring=FF4DA6&fire=FF9F1C&currStreakLabel=00E7FF" width="80%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Zoro-RK&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff4da6&text_color=ffffff&icon_color=ffd700" width="90%" />
 
-<br/>
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Zoro-RK&theme=radical&hide_border=true&background=0d1117&ring=ff4da6&fire=ff9f1c&currStreakLabel=00e7ff" width="90%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoro-RK&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e7ff&text_color=ffffff&layout=compact" width="90%" />
+
+</div>
+
 </div>
 
 ---

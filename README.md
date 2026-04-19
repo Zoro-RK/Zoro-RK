@@ -58,20 +58,36 @@ My journey began with a simple curiosity to understand *why things work*, evolvi
 
 
 
-## 🤝 Multiplayer Mode
-
-* **LinkedIn:**[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruubanraj/)<br/>
-* **Email:**[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruubanraja@gmail.com)
-
-
-
-## 📊 Player Stats (Let's Connect)
-
-![](https://github-readme-stats.shion.dev/api?username=Zoro-RK&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Zoro-RK&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zoro-RK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+## 🤝 Multiplayer Mode (Let's Connect)
 
 <div align="center">
-  <i>The game isn't over. Still building. Still learning. Still exploring... 🎯</i><br>
+
+<a href="https://www.linkedin.com/in/ruubanraj/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:ruubanraja@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 📊 Player Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Zoro-RK&theme=dark&hide_border=false" /><br/>
+
+<img src="https://streak-stats.demolab.com?user=Zoro-RK&theme=dark&hide_border=false" /><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoro-RK&theme=dark&hide_border=false&layout=compact" />
+
+</div>
+
+---
+
+<div align="center">
+  <i>The game isn't over. Still building. Still learning. Still exploring... 🎯</i>
 </div>

@@ -62,11 +62,11 @@ My journey began with a simple curiosity to understand *why things work*, evolvi
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ruubanraj/">
+*  **LinkedIn**:<a href="https://www.linkedin.com/in/ruubanraj/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+</a><br>
 
-<a href="mailto:ruubanraja@gmail.com">
+*  **Email**:<a href="mailto:ruubanraja@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -78,12 +78,13 @@ My journey began with a simple curiosity to understand *why things work*, evolvi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zoro-RK&theme=dark&hide_border=false" /><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Zoro-RK&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E7FF&text_color=FFFFFF&icon_color=FFD700" width="80%" />
 
-<img src="https://streak-stats.demolab.com?user=Zoro-RK&theme=dark&hide_border=false" /><br/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoro-RK&theme=dark&hide_border=false&layout=compact" />
+<img src="https://streak-stats.demolab.com?user=Zoro-RK&theme=radical&hide_border=true&background=0D1117&ring=FF4DA6&fire=FF9F1C&currStreakLabel=00E7FF" width="80%" />
 
+<br/>
 </div>
 
 ---

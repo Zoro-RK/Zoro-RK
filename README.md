@@ -60,21 +60,17 @@ My journey began with a simple curiosity to understand *why things work*, evolvi
 
 ## 🤝 Multiplayer Mode (Let's Connect)
 
-<div align="center">
 
-<b>LinkedIn</b><br/>
-<a href="https://www.linkedin.com/in/ruubanraj/">
+
+<b>LinkedIn:</b><a href="https://www.linkedin.com/in/ruubanraj/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+</a><br>
 
-<br/><br/>
-
-<b>Email</b><br/>
-<a href="mailto:ruubanraja@gmail.com">
+<b>Email:</b><a href="mailto:ruubanraja@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
+
 
 ---
 
@@ -82,25 +78,10 @@ My journey began with a simple curiosity to understand *why things work*, evolvi
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Zoro-RK&theme=dark&hide_border=false" /><br/>
 
-<h3>⚡ Zoro-RK GitHub Stats</h3>
+<img src="https://streak-stats.demolab.com?user=Zoro-RK&theme=dark&hide_border=false" /><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zoro-RK&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff4da6&text_color=ffffff&icon_color=ffd700" width="95%" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Zoro-RK&theme=radical&hide_border=true&background=0d1117&ring=ff4da6&fire=ff9f1c&currStreakLabel=00e7ff" width="95%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoro-RK&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e7ff&text_color=ffffff&layout=compact" width="95%" />
-
-</td>
-</tr>
-</table>
 
 </div>
 

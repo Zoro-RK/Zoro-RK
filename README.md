@@ -62,11 +62,13 @@ My journey began with a simple curiosity to understand *why things work*, evolvi
 
 
 
-<b>LinkedIn:</b><a href="https://www.linkedin.com/in/ruubanraj/">
+<a href="https://www.linkedin.com/in/ruubanraj/">
+  <b>LinkedIn:</b>
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a><br>
 
-<b>Email:</b><a href="mailto:ruubanraja@gmail.com">
+<a href="mailto:ruubanraja@gmail.com">
+  <b>Email:</b>
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -78,9 +80,9 @@ My journey began with a simple curiosity to understand *why things work*, evolvi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zoro-RK&theme=dark&hide_border=false" /><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Zoro-RK&theme=radical" /><br/>
 
-<img src="https://streak-stats.demolab.com?user=Zoro-RK&theme=dark&hide_border=false" /><br/>
+<img src="https://streak-stats.demolab.com?user=Zoro-RK&theme=radical_border=false" /><br/>
 
 
 </div>

@@ -1,4 +1,4 @@
-# 🕹️ [Player 1 Start]: Ruuban
+# 🕹️ [Player]: Ruuban
 ### 🎮 Class: Full-Stack & AI Sorcerer | 🌍 Realm: Tamil Nadu, India
 
 Welcome to my profile! I am a creator on a quest to explore the space where **AI meets real-world impact**. I forge systems that don't just function—but *think, adapt, and feel intuitive*. 
